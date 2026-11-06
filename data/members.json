@@ -1,0 +1,70 @@
+
+{
+  "club": "De Builder's Club",
+  "description": "An exclusive community of builders, developers, innovators and digital architects.",
+  "members": [
+    {
+      "name": "Malik Blueprint",
+      "slug": "malik-blueprint",
+      "role": "Founder & Software Architect",
+      "bio": "Malik Blueprint is a software architect and digital builder associated with De Builder's Club. His interests include software engineering, technology innovation and building digital infrastructure.",
+      "skills": [
+        "Software Engineering",
+        "Web Development",
+        "System Architecture"
+      ],
+      "projects": [
+        {
+          "title": "Blueprint Systems",
+          "url": "https://example.com"
+        }
+      ],
+      "github": "https://github.com/example",
+      "website": "https://example.com",
+      "public": true,
+      "consent": true
+    },
+    {
+      "name": "Zara Circuit",
+      "slug": "zara-circuit",
+      "role": "Full-Stack Developer",
+      "bio": "Zara Circuit is a creative developer and technology enthusiast connected with De Builder's Club. She specializes in building modern digital experiences and scalable web applications.",
+      "skills": [
+        "JavaScript",
+        "React",
+        "UI Design"
+      ],
+      "projects": [
+        {
+          "title": "Circuit Labs",
+          "url": "https://example.com"
+        }
+      ],
+      "github": "https://github.com/example",
+      "website": "https://example.com",
+      "public": true,
+      "consent": true
+    },
+    {
+      "name": "Ada Forge",
+      "slug": "ada-forge",
+      "role": "Cybersecurity Researcher",
+      "bio": "Ada Forge is a security-minded builder interested in cybersecurity, network engineering and developing innovative technical solutions as part of the De Builder's Club community.",
+      "skills": [
+        "Cybersecurity",
+        "Network Engineering",
+        "Python"
+      ],
+      "projects": [
+        {
+          "title": "Forge Security",
+          "url": "https://example.com"
+        }
+      ],
+      "github": "https://github.com/example",
+      "website": "https://example.com",
+      "public": true,
+      "consent": true
+    }
+  ]
+}
