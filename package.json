@@ -1,12 +1,14 @@
-packa{
+
+{
   "name": "de-builders-club",
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "description": "The official digital home of De Builder's Club.",
   "scripts": {
     "build": "node scripts/build.mjs"
   },
   "engines": {
     "node": ">=20"
   }
-}ge.json
+}
